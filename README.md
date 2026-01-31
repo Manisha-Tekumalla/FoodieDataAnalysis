@@ -1,4 +1,4 @@
-# Food Delivery Data Analysis - Hackathon 2024
+# Food Delivery Data Analysis - Hackathon 2026
 
 An end-to-end data analysis pipeline that merges SQL, JSON, and CSV datasets to uncover consumer behavior insights.
 
